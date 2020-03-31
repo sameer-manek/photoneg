@@ -1,0 +1,4 @@
+.vscode/
+*~
+cocos2d/
+proj.android/app/build/

@@ -1,0 +1,3 @@
+[submodule "proj.android/app/Photon_AndroidNDK"]
+	path = proj.android/app/Photon_AndroidNDK
+	url = git@bitbucket.org:hashcube/photon_androidndk.git
